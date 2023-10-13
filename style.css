@@ -1,0 +1,24 @@
+#score{
+    float:left;
+    font-size: 50px;
+    margin-left: 3cm;
+     
+}
+#timer{
+    float:right;
+    font-size: 50px;
+    margin-right: 3cm;
+    
+}
+#sketchtobedrawn{
+    color: red;
+}
+body{
+    background-color:rgb(89, 215, 89)
+}
+.show{
+    float:right;
+}
+#qdid{
+    background-color: gray;
+}
